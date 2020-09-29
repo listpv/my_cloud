@@ -12,6 +12,8 @@
         <module>server</module>
         <module>client</module>
         <module>common</module>
+        <module>NioChatServer</module>
+        <module>NioChatClient</module>
     </modules>
 
     <properties>
